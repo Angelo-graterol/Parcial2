@@ -3,6 +3,7 @@
 Códigos:
 
 192330
+192385
 
 
 En primera instancia, creamos la interfaz donde determinamos el tipo de menu que ofrece el comedor universitario, el cual ser regular, vegetariano y vegano; asignando a cada menus los precios correspondientes y asignando una disponibilidad de 5 platos por menu.
